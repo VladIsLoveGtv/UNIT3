@@ -1,0 +1,54 @@
+.format_rd{
+    color: red;
+}
+.format_blcl{
+    color: black;
+}
+.format2{
+    font-family: Arial, sans-serif;
+    text-decoration: line-through;
+
+    color: black;
+}
+.format3{
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-style: dotted;
+text-decoration: underline;
+font-style: italic;
+}
+
+
+ .solid{
+    border: solid;
+ }
+ .dashed{
+    border: dashed;
+ }
+ .dotted{
+    border: dotted;
+ }
+ .double{
+    border: double;
+ }
+ 
+ .groove{
+    border: groove;
+    border-color: rgb(23, 106, 0);
+    border-width: 5px;
+ }
+ .ridge{
+    border: ridge;
+    border-color: rgb(23, 106, 0);
+    border-width: 5px;
+ }
+ .inset{
+    border: inset;
+    border-color: rgb(23, 106, 0);
+    border-width: 5px;
+ }
+ .outset{
+    border: outset;
+    border-color: rgb(23, 106, 0);
+    border-width: 5px;
+ }
