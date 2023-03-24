@@ -102,19 +102,22 @@ border: none;
    -webkit-background-clip: text;
    color: transparent;
 }
-.parag {
-   color: green;
-   border: 1px solid black;
+.prg {
+   color: rgb(255, 242, 0);
+   border: 2px groove black;
  }
- .prgrf1{
+ .prg1{
    font-size: 18px;
    font-family: 'Courier New', Courier, monospace;
  }
- .prgrf2{
+ .prg2{
    font-size: 20px;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
- .prgrf3{
+ .prg3{
    font-size: 22px;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
+
+
+
