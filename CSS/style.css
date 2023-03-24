@@ -95,29 +95,26 @@ border: none;
 
 
 
-
 .greetings{
    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
    background-clip: text;
    -webkit-background-clip: text;
    color: transparent;
 }
+
 .prg {
    color: rgb(255, 242, 0);
    border: 2px groove black;
  }
- .prg1{
-   font-size: 18px;
-   font-family: 'Courier New', Courier, monospace;
- }
- .prg2{
+.prg1{
    font-size: 20px;
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
- }
- .prg3{
-   font-size: 22px;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- }
-
-
-
+   font-family: 'Times New Roman', ui-monospace, monospace;
+}
+.prg2{
+   font-size: 25px;
+   font-family:'Franklin Gothic Medium', revert, Arial, sans-serif;
+}
+.prg3{
+   font-size: 30px;
+   font-family: "Goudy Bookletter 1911", sans-serif;
+}
