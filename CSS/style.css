@@ -56,14 +56,13 @@ font-style: italic;
 
 
  .bg-img{
-   background-image: url('./CSS/IMG/time.озп');
+   background-image: url('./IMG/time.jpg');
    width: 1920px;
    height: 95px;
    color: white;
 }
 .bg-hex{
-   background-color: #0095ff;
-   color: #ffffff;
+   background-color: #00ffff;
 }
 .bg-name{
    background-color: cyan;
@@ -93,3 +92,29 @@ border: none;
    background-color: blue;
    border-color:yellow;
 }
+
+
+
+
+.greetings{
+   background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;
+}
+.parag {
+   color: green;
+   border: 1px solid black;
+ }
+ .prgrf1{
+   font-size: 18px;
+   font-family: 'Courier New', Courier, monospace;
+ }
+ .prgrf2{
+   font-size: 20px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .prgrf3{
+   font-size: 22px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
